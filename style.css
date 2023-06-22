@@ -1,0 +1,19 @@
+
+    h1
+    {
+        color: rgb(41, 41, 150);
+        background-color: rgb(190, 36, 36);
+        border-radius: 0.3rem;
+        display: inline-block;
+    
+    }
+
+    h4
+    {
+        display: inline-block;
+    }
+    body
+    {
+        background-color:rgb(88, 121, 219) ;
+    }
+
